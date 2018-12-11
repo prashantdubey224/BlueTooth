@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\projects\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_device_list.xml",
+        "source": "D:\\projects\\BlueTooth\\app\\src\\main\\res\\menu\\menu_device_list.xml"
+    },
+    {
+        "merged": "D:\\projects\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\projects\\BlueTooth\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]
